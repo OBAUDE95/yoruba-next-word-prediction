@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite the published article."
+title: "Next Word Prediction in Yorùbá Text: A Long Short Term Memory Approach"
+type: article
+authors:
+  - family-names: "Obaude"
+    given-names: "Ayodeji"
+    orcid: "https://orcid.org/0009-0008-7831-6255"
+  - family-names: "Oyekanmi"
+    given-names: "Ezekiel"
+  - family-names: "Tom"
+    given-names: "Joshua"
+date-released: 2026-08-14
+url: "https://infocomp.dcc.ufla.br/index.php/infocomp/article/view/5467/651"
